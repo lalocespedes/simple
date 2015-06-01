@@ -1,0 +1,16 @@
+{
+    "autoload":{
+        "psr-4":{
+            "lalocespedes\\": "app//lalocespedes"
+        }
+    },
+    "name": "lalocespedes/simple",
+    "authors": [
+        {
+            "name": "lalocespedes",
+            "email": "lalocespedes@gmail.com"
+        }
+    ],
+    "require": {}
+
+}
